@@ -3,7 +3,7 @@ module.exports = {
     {
       name: 'price-updater',
       script: 'priceUpdater.js',
-      cwd: '/home/pi/priceUpdaterCPG',
+      cwd: './',
       instances: 1,
       autorestart: true,
       watch: false,
@@ -24,7 +24,7 @@ module.exports = {
     {
       name: 'price-updater-continuous',
       script: 'priceUpdater.js',
-      cwd: '/home/pi/priceUpdaterCPG',
+      cwd: './',
       instances: 1,
       autorestart: true,
       watch: false,
