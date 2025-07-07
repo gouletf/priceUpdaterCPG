@@ -25,42 +25,9 @@ async function createWebDriver() {
   options.addArguments('--window-size=1920,1080');
   options.addArguments('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
   
-  // Pi 4 specific settings
-  if (process.platform === 'linux') {
-    // Use Chromium on Pi 4
-    options.setChromeBinaryPath('/usr/bin/chromium-browser');
-    
-    // Additional Pi 4 optimizations
-    options.addArguments('--disable-extensions');
-    options.addArguments('--disable-plugins');
-    options.addArguments('--disable-images');
-    options.addArguments('--disable-javascript');
-    options.addArguments('--disable-web-security');
-    options.addArguments('--allow-running-insecure-content');
-    options.addArguments('--disable-background-timer-throttling');
-    options.addArguments('--disable-backgrounding-occluded-windows');
-    options.addArguments('--disable-renderer-backgrounding');
-    options.addArguments('--disable-features=TranslateUI');
-    options.addArguments('--disable-ipc-flooding-protection');
-  }
-  
-  // Set ChromeDriver path for Pi 4
-  const service = new chrome.ServiceBuilder('/usr/bin/chromedriver');
-  
-  // Ensure ChromeDriver is executable
-  try {
-    const fs = require('fs');
-    fs.accessSync('/usr/bin/chromedriver', fs.constants.X_OK);
-    console.log('✅ ChromeDriver found at /usr/bin/chromedriver');
-  } catch (e) {
-    console.error('❌ ChromeDriver not executable at /usr/bin/chromedriver');
-    console.error('Error:', e.message);
-  }
-  
   return new Builder()
     .forBrowser('chrome')
     .setChromeOptions(options)
-    .setChromeService(service)
     .build();
 }
 
@@ -76,12 +43,6 @@ async function fetchPriceFromSupplier(url, sku, supplierName = 'unknown') {
   let driver = null;
   try {
     console.log(`Fetching price from: ${url} (SKU: ${sku})`);
-    
-    // Debug ChromeDriver setup
-    console.log('🔧 Setting up ChromeDriver...');
-    console.log(`Platform: ${process.platform}`);
-    console.log(`Architecture: ${process.arch}`);
-    
     driver = await createWebDriver();
     
     // Navigate to the page
