@@ -5,11 +5,17 @@
   "main": "extract-product-data-node.js",
   "scripts": {
     "start": "node extract-product-data-node.js",
+    "price-updater": "node priceUpdater.js",
+    "price-updater-once": "node priceUpdater.js --once",
+    "price-updater-dry": "node priceUpdater.js --dry-run",
+    "batch": "node batch-processor.js",
     "test": "node test-extractor.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.7.1",
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "node-cron": "^4.2.0",
+    "selenium-webdriver": "^4.34.0"
   },
   "optionalDependencies": {
     "node-fetch": "^3.3.2"
