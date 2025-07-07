@@ -1,0 +1,241 @@
+{
+  "settings": {
+    "defaultInsert": true,
+    "batchDelay": 3000,
+    "maxRetries": 3,
+    "logLevel": "verbose",
+    "handleDuplicateMaterials": true,
+    "groupSimilarMaterials": true
+  },
+  "materials": {
+    "aluminum_t6_1_16_inch": {
+      "name": "Aluminium T6 1/16\" (1.6mm) Sheet",
+      "specifications": {
+        "material_type": "6061-T6 Aluminum",
+        "thickness": "1/16 inch (1.6mm)",
+        "dimensions": "12x12 inches",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 2 - ZIQI 3 Pack, Brand: Venanoci"
+        },
+        {
+          "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 3 - SALUINOKI brand, anodized finish"
+        }
+      ]
+    },
+    "aluminum_t6_1_64_inch": {
+      "name": "Aluminium T6 1/64\" (0.4mm) Sheet",
+      "specifications": {
+        "material_type": "6061-T6 Aluminum",
+        "thickness": "1/64 inch (0.4mm)",
+        "dimensions": "15.2x15.2 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/Aluminum-Protective-Crafting-Polished-Deburred/dp/B0B4DSK5H4/ref=sr_1_15?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-15",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "aluminum_t6_1_8_inch": {
+      "name": "Aluminium T6 1/8\" (3.3mm) Sheet",
+      "specifications": {
+        "material_type": "6061-T6 Aluminum",
+        "thickness": "1/8 inch (3.3mm)",
+        "dimensions": "30x30 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/RMP-6061-Aluminum-Sheet-0-125/dp/B06XSRK4J2/ref=sr_1_33?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-33",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/dp/B0CHJ5JDFM/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Industrial/dp/B0B4ZTXKKS/ref=sr_1_17?crid=9I1KI3AT2ZC9&dib=eyJ2IjoiMSJ9.qlgqVkAd08WUTPWwKX_KN9RmnbWCAg8fqy66PaeSczSstvcljL7J45-uvRYIB2GmpBcexpCaXxzTUOFJaMU0vaVi65_r_dT_BjF3XfgjRkwiA-Ow1hinxgQN9XZf4Wqg4gqXVGB6OxUMWt0mdVnPceLwCGAufScbbGj1KUswhc2WFbsEVbmJ6q1nJLo_q0S7azA6tulJsRlFkdjA2sps0DvQetVdM3q14KQ2SYZvP3BEeY3c6DzwK0d7OdeK3orefgnjuMSQ0jmDlieEZHgGDKbJSiM0OHo31VFL8ZnfhNE.hPAgL12XWkvryIEsVJSwpIDnRmJe3y7uMbslc_uhl1g&dib_tag=se&keywords=SALUINOKI+Aluminum+Sheet+Metal+Plate+1%2F8&qid=1718983453&s=industrial&sprefix=saluinoki+aluminum+sheet+metal+plate+1%2F8%2Cindustrial%2C80&sr=1-17",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "aluminum_t6_1_4_inch": {
+      "name": "Aluminium T6 1/4\" (6.35mm) Sheet",
+      "specifications": {
+        "material_type": "6061-T6 Aluminum",
+        "thickness": "1/4 inch (6.35mm)",
+        "dimensions": "30x30 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/ZEONHAK-Protective-Heat-Treatable-Corrosion-Resistant/dp/B08RS3FDDX/ref=sr_1_5?crid=2TKPH5RH07V0M&dib=eyJ2IjoiMSJ9.Um3PWmJ8aCCe7GB2Da762MW5iQDpPx7lKgffH-K3n4u3heBGe0u1C4No-y6CqVnSuSIfnFQ00X-lw2W4GMqEfh1UpKhtQd7wXE3ft8uR3jMx9nTytUp6gUoRmUP15onZN1MeijH1xsdHhB_dvj7iVpWHXN224aE9DBVRvoM_TcHJcHkiiM1gSwkamo3V3xbyUN7g-1RDldZ7a2ilG6hFOdpR4BuGjZa3eWpKbqAdVqWlscXKr3ZBMGzbu6Jki_iwiBmk8TfcryKGRxSmciu4mz1og7VAfDixdJDzF32_2LI.awmP1_2J0RL-DTFTJYoNkNsZd0GJbj1MvWwGGUK3vps&dib_tag=se&keywords=Aluminum+Sheet+Metal+Plate+1%2F4+2+PCS+t6&qid=1716253931&s=industrial&sprefix=aluminum+sheet+metal+plate+1%2F4+2+pcs+t6%2Cindustrial%2C120&sr=1-5",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/Thickness-Protective-Heat-Treatable-Corrosion-Resistant/dp/B08DD7Y6YZ/ref=sr_1_12?crid=2UF6QG724ZSRG&dib=eyJ2IjoiMSJ9.ZRbJ1kjH0SKD4PRPZ4iENyIx4rxrR0Xbvzke1w4anCoGqTyx98N-NBl-vWRKabhkZY8RZgxYo1lE9RW4eQavRtAK8-GRs1om5NSOHJDwkGfz2IN-wRUuhySVFnC5V1dar7OrJnA17AZp_A_VX0EooW1XyHe2fgqkw1pAdwN50YFn0njz2gItQQwuRc7rGJDPCv8qrBg1RTPlYmW2z2ZGUiUr2jB1DeydyfsdNeJNXONi1J_7C9HgsFPlxYGCW3UxOB23YWFELQqa8B6oqs21wau17BzszRdX6GFdJsXeLJQ.K42w6jQJUIFuX3bI_C_MGN97HKK4WEAMQjmOcNaeZjE&dib_tag=se&keywords=Aluminum+Sheet+Metal+Plate+1%2F4&qid=1716220505&s=industrial&sprefix=aluminum+sheet+metal+plate+1%2F4%2Cindustrial%2C122&sr=1-12",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        },
+        {
+          "url": "https://www.amazon.ca/SEUNMUK-Aluminum-Thickness-Tooling-Protective/dp/B096W1L1WX/ref=sr_1_11?crid=1UEGL9BYGLT85&dib=eyJ2IjoiMSJ9.xJXifUQpYf0MZrTJxhUiRIetbxgw4FAT1eqOQukOomJ9_gNg8f5ok_oLFNqlvyeMPkgmTJVUR7vU82hAaGEQhXjRS3oPSjkGrNu7fYShVRVS0sm5XY1Cs7Lew_E7s1SLGaZyCvQv_LVLaSbwT7jp1aFQHB6TbEYqZ2wDzbhjojNJ7NlQ9L7IDSwArvzoY1bn_DHgPAlOIb4-qj44hU7f9zyykGED937zST5F0Z_c-a89aaTniBS3QTdwQ9zSZyS-rDKfzia7y3SQbDjy17OmPKu17BzszRdX6GFdJsXeLJQ.yPEp8zABXsX62h4yzmPzAOousopvmruocEM1iMn8Rf0&dib_tag=se&keywords=1%2F4+in+6061&qid=1723427378&s=industrial&sprefix=1%2F4+in+6061%2Cindustrial%2C81&sr=1-11",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "acacia_wooden_planks_12_pieces": {
+      "name": "Acacia wooden planks(12 pieces)",
+      "specifications": {
+        "material_type": "Acacia",
+        "thickness": "7.62mm",
+        "dimensions": "30.48x40.64 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.com/Patelai-Cutting-Kitchen-Chopping-Housewarming/dp/B0CNW189WZ/ref=sr_1_50_sspa?crid=DX4DVH2R9ND5&dib=eyJ2IjoiMSJ9.ULAV0MA4wEtU9Hfg3y_BMVVO2AuIJBlMGT8DJKPXQgdOZAVbny8Z5lyp5E2At5otYUKtyWNLUZgEiwZA7i8bopiVn6s0R0tHP5klRWKVt7c.Q45_hjzcC3N5zQe7vSjflcdeo2ApQ3SiYNtcx1n-bhw&dib_tag=se&keywords=rosewood%2Bblock%2Bcutting%2Bboard&qid=1736906604&sprefix=rosewood%2Bblock%2Bcutting%2Bboard%2B%2Caps%2C152&sr=8-50-spons&xpid=fXIgPVRVlLUZ-&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA&th=1",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "acrylic_colored_opaque_3_3mm_usa": {
+      "name": "Acrylic Colored Opaque (3.3mm) (USA) ",
+      "specifications": {
+        "material_type": "Acrylic",
+        "thickness": "3.3mm",
+        "dimensions": "30x30 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.com/dp/B0B18QC4QM?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "acrylic_colored_opaque_1_6mm": {
+      "name": "Acrylic Colored Opaque (1.6mm) (USA) ",
+      "specifications": {
+        "material_type": "Acrylic",
+        "thickness": "1.6mm",
+        "dimensions": "30x20 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.com/dp/B0BHXV9JWM?psc=1&ref=ppx_yo2ov_dt_b_product_details",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "colored_acrylic_10_pack_3mm": {
+      "name": "Colored Acrylic 10 Pack (3mm) ",
+      "specifications": {
+        "material_type": "Acrylic",
+        "thickness": "3mm",
+        "dimensions": "48x30 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://lasersupply.ca/collections/acrylic-packs/products/acrylic-11-72x19-10-pack",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "colored_acrylic_6_pack_2.8mm": {
+      "name": "Colored Acrylic 6 Pack (2.8mm) ",
+      "specifications": {
+        "material_type": "Acrylic",
+        "thickness": "2.8mm",
+        "dimensions": "30x20 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/Custign-Translucent-Plexiglass-Fluorescent-Transparent/dp/B0BN176RQ5/ref=sr_1_56?dib=eyJ2IjoiMSJ9.sETpfNW0R3D5g51UqiXLpsnuyzYTLjiEYC4kTD1oF81Fku3IABCQSzfOjRO0GU4zYrMBo4HLxptNxWuY54x22EccREovQcd8-Er7wJLR5U9fQDXUa6VnDNbGzdB9bImQVyjU9ERDT-omwzE5FkBIWJcS_BsK_F4pJZS2ytG6BSR0E-Gw2ZvGUdgviBj6xL8gW6y64a9QS0tFJXp1iEFVxBaiEnnMuQZWAqIeP4M22-23uBaDyGEgiewdyXJK1zSxnvqPTEgqTFVMXppRAPiFtY2ozHngJlj6T7ehlsR5EAU.GIXiyurJ7k7ZsVTZJMmerWg415P1klyqQJuxhLbR4Wk&dib_tag=se&keywords=Acrylic%2BSheets&qid=1718490835&sr=8-56&th=1",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    },
+    "black_acrylic_4_pack": {
+      "name": "Black Acrylic 4 Pack (3mm) ",
+      "specifications": {
+        "material_type": "Acrylic",
+        "thickness": "3mm",
+        "dimensions": "30x20 cm",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "url": "https://www.amazon.ca/dp/B0D1TH3TP1?psc=1&smid=A2O5P7NVIV6AHO&ref_=chk_typ_imgToDp",
+          "expectedType": "material",
+          "insert": true,
+          "priority": "high",
+          "notes": "Supplier 1 - Check for protective film"
+        }
+      ]
+    }
+  }
+} 

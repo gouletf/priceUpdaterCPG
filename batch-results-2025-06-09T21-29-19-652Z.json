@@ -1,0 +1,512 @@
+{
+  "processed": 3,
+  "successful": 3,
+  "failed": 0,
+  "inserted": 3,
+  "materials": {
+    "aluminum_t6_1_16_inch": {
+      "name": "Aluminium T6 1/16\" (1.6mm) Sheet",
+      "specifications": {
+        "material_type": "6061-T6 Aluminum",
+        "thickness": "1/16 inch (1.6mm)",
+        "dimensions": "12x12 inches",
+        "finish": "Plain/Mill finish"
+      },
+      "suppliers": [
+        {
+          "success": true,
+          "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+          "supplierIndex": 1,
+          "data": {
+            "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+            "name": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry 1.5mm  Amazon.ca Industrial amp Scientific",
+            "description": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film, Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry, 1.5mm  Amazon.ca Industrial amp Scientific",
+            "price": 22.99,
+            "currency": "USD",
+            "specifications": {},
+            "images": [],
+            "brand": "Brand: IOUALEY",
+            "model": null,
+            "sku": "UweAL",
+            "availability": "Available",
+            "category": null,
+            "dimensions": {
+              "length": 30.2,
+              "width": 17.4,
+              "height": 1.5,
+              "unit": "cm"
+            },
+            "material_type": "s",
+            "extracted_at": "2025-06-09T21:28:59.671Z",
+            "suggested_type": "material",
+            "confidence": 95,
+            "classification_reasons": [
+              "User specified as material",
+              "Material keyword: \"sheet\" (high confidence)",
+              "Material keyword: \"plate\" (high confidence)",
+              "Has dimensional specifications (material indicator)"
+            ]
+          },
+          "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "materialIsNew": {
+            "id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "name": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry 1.5mm  Amazon.ca Industrial amp Scientific",
+            "size_mm": 30.2,
+            "size_inches": null,
+            "supplier": "Brand: IOUALEY",
+            "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+            "price_per_unit": 22.99,
+            "unit_type": "piece",
+            "description": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film, Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry, 1.5mm  Amazon.ca Industrial amp Scientific | Thickness: 1/16 inch (1.6mm)",
+            "created_at": "2025-06-09T21:29:00.93251+00:00",
+            "size_x_mm": "302.0",
+            "size_y_mm": "174.0",
+            "size_z_mm": "15.0",
+            "size_x_inches": "11.890",
+            "size_y_inches": "6.850",
+            "size_z_inches": "0.591",
+            "in_stock": 0
+          },
+          "supplierRelationship": {
+            "id": 49,
+            "isNew": true,
+            "data": {
+              "id": 49,
+              "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+              "supplier_id": 11,
+              "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+              "sku": "UweAL",
+              "price_per_unit": 22.99,
+              "min_order_quantity": 1,
+              "lead_time_days": null,
+              "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9 (via Amazon)",
+              "created_at": "2025-06-09T21:29:01.303917+00:00"
+            }
+          },
+          "priceHistory": {
+            "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+          },
+          "insertResult": {
+            "success": true,
+            "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "tableName": "materials",
+            "supplierData": {
+              "data": {
+                "id": 49,
+                "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+                "supplier_id": 11,
+                "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+                "sku": "UweAL",
+                "price_per_unit": 22.99,
+                "min_order_quantity": 1,
+                "lead_time_days": null,
+                "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9 (via Amazon)",
+                "created_at": "2025-06-09T21:29:01.303917+00:00"
+              }
+            }
+          }
+        },
+        {
+          "success": true,
+          "url": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+          "supplierIndex": 2,
+          "data": {
+            "url": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+            "name": "ZIQI 3 Pack 6061 T6 Aluminium Metal Sheet 12 x 12 x 116 Inch Thickness Flat Plain Plate Panel Aluminium Metal Sheets Plate  Amazon.ca Industrial amp Scientific",
+            "description": "ZIQI 3 Pack 6061 T6 Aluminium Metal Sheet 12 x 12 x 116 Inch Thickness Flat Plain Plate Panel Aluminium Metal Sheets Plate  Amazon.ca Industrial amp Scientific",
+            "price": 47.41,
+            "currency": "USD",
+            "specifications": {},
+            "images": [],
+            "brand": "Brand: Venanoci",
+            "model": null,
+            "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+            "availability": "Available",
+            "category": null,
+            "dimensions": {
+              "length": 12,
+              "width": 12,
+              "height": 0.0625,
+              "unit": "in"
+            },
+            "material_type": "s",
+            "extracted_at": "2025-06-09T21:29:07.537Z",
+            "suggested_type": "material",
+            "confidence": 95,
+            "classification_reasons": [
+              "User specified as material",
+              "Material keyword: \"sheet\" (high confidence)",
+              "Material keyword: \"plate\" (high confidence)",
+              "Has dimensional specifications (material indicator)",
+              "URL contains \"sheets\" (material indicator)"
+            ]
+          },
+          "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "materialIsNew": false,
+          "supplierRelationship": {
+            "id": 50,
+            "isNew": true,
+            "data": {
+              "id": 50,
+              "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+              "supplier_id": 12,
+              "link": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+              "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+              "price_per_unit": 47.41,
+              "min_order_quantity": 1,
+              "lead_time_days": null,
+              "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18 (via Amazon)",
+              "created_at": "2025-06-09T21:29:08.975536+00:00"
+            }
+          },
+          "priceHistory": {
+            "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+          },
+          "insertResult": {
+            "success": true,
+            "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "tableName": "materials",
+            "supplierData": {
+              "data": {
+                "id": 50,
+                "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+                "supplier_id": 12,
+                "link": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+                "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+                "price_per_unit": 47.41,
+                "min_order_quantity": 1,
+                "lead_time_days": null,
+                "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18 (via Amazon)",
+                "created_at": "2025-06-09T21:29:08.975536+00:00"
+              }
+            }
+          }
+        },
+        {
+          "success": true,
+          "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+          "supplierIndex": 3,
+          "data": {
+            "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+            "name": "SALUINOKI Aluminum Sheet Metal Plate 14 in 6061 T651 12x8 in Anodized Aluminum Panel 2Pcs  Amazon.ca Industrial amp Scientific",
+            "description": "SALUINOKI Aluminum Sheet Metal Plate 14 in 6061 T651 12x8 in Anodized Aluminum Panel 2Pcs  Amazon.ca Industrial amp Scientific",
+            "price": 56.22,
+            "currency": "USD",
+            "specifications": {},
+            "images": [],
+            "brand": "Brand: SALUINOKI",
+            "model": null,
+            "sku": "nits",
+            "availability": "Available",
+            "category": null,
+            "dimensions": {
+              "length": 12,
+              "width": 8,
+              "unit": "in"
+            },
+            "material_type": "s",
+            "extracted_at": "2025-06-09T21:29:16.029Z",
+            "suggested_type": "material",
+            "confidence": 95,
+            "classification_reasons": [
+              "User specified as material",
+              "Material keyword: \"sheet\" (high confidence)",
+              "Material keyword: \"plate\" (high confidence)",
+              "Has dimensional specifications (material indicator)"
+            ]
+          },
+          "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "materialIsNew": false,
+          "supplierRelationship": {
+            "id": 51,
+            "isNew": true,
+            "data": {
+              "id": 51,
+              "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+              "supplier_id": 13,
+              "link": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+              "sku": "nits",
+              "price_per_unit": 56.22,
+              "min_order_quantity": 1,
+              "lead_time_days": null,
+              "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1 (via Amazon)",
+              "created_at": "2025-06-09T21:29:17.337945+00:00"
+            }
+          },
+          "priceHistory": {
+            "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+          },
+          "insertResult": {
+            "success": true,
+            "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "tableName": "materials",
+            "supplierData": {
+              "data": {
+                "id": 51,
+                "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+                "supplier_id": 13,
+                "link": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+                "sku": "nits",
+                "price_per_unit": 56.22,
+                "min_order_quantity": 1,
+                "lead_time_days": null,
+                "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1 (via Amazon)",
+                "created_at": "2025-06-09T21:29:17.337945+00:00"
+              }
+            }
+          }
+        }
+      ],
+      "summary": {
+        "total": 3,
+        "successful": 3,
+        "inserted": 3
+      }
+    }
+  },
+  "details": [
+    {
+      "success": true,
+      "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+      "supplierIndex": 1,
+      "data": {
+        "url": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+        "name": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry 1.5mm  Amazon.ca Industrial amp Scientific",
+        "description": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film, Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry, 1.5mm  Amazon.ca Industrial amp Scientific",
+        "price": 22.99,
+        "currency": "USD",
+        "specifications": {},
+        "images": [],
+        "brand": "Brand: IOUALEY",
+        "model": null,
+        "sku": "UweAL",
+        "availability": "Available",
+        "category": null,
+        "dimensions": {
+          "length": 30.2,
+          "width": 17.4,
+          "height": 1.5,
+          "unit": "cm"
+        },
+        "material_type": "s",
+        "extracted_at": "2025-06-09T21:28:59.671Z",
+        "suggested_type": "material",
+        "confidence": 95,
+        "classification_reasons": [
+          "User specified as material",
+          "Material keyword: \"sheet\" (high confidence)",
+          "Material keyword: \"plate\" (high confidence)",
+          "Has dimensional specifications (material indicator)"
+        ]
+      },
+      "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+      "materialIsNew": {
+        "id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+        "name": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry 1.5mm  Amazon.ca Industrial amp Scientific",
+        "size_mm": 30.2,
+        "size_inches": null,
+        "supplier": "Brand: IOUALEY",
+        "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+        "price_per_unit": 22.99,
+        "unit_type": "piece",
+        "description": "2 Pack 6061 T651 Aluminum Sheet Metal 6quot x 12quot x 116quot0.06 Flat Plain Thin Aluminum Plate Covered with Protective Film, Heat Treatable Rectangle Aluminum Metal Plate for Crafting lndustry, 1.5mm  Amazon.ca Industrial amp Scientific | Thickness: 1/16 inch (1.6mm)",
+        "created_at": "2025-06-09T21:29:00.93251+00:00",
+        "size_x_mm": "302.0",
+        "size_y_mm": "174.0",
+        "size_z_mm": "15.0",
+        "size_x_inches": "11.890",
+        "size_y_inches": "6.850",
+        "size_z_inches": "0.591",
+        "in_stock": 0
+      },
+      "supplierRelationship": {
+        "id": 49,
+        "isNew": true,
+        "data": {
+          "id": 49,
+          "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "supplier_id": 11,
+          "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+          "sku": "UweAL",
+          "price_per_unit": 22.99,
+          "min_order_quantity": 1,
+          "lead_time_days": null,
+          "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9 (via Amazon)",
+          "created_at": "2025-06-09T21:29:01.303917+00:00"
+        }
+      },
+      "priceHistory": {
+        "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+      },
+      "insertResult": {
+        "success": true,
+        "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+        "tableName": "materials",
+        "supplierData": {
+          "data": {
+            "id": 49,
+            "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "supplier_id": 11,
+            "link": "https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9",
+            "sku": "UweAL",
+            "price_per_unit": 22.99,
+            "min_order_quantity": 1,
+            "lead_time_days": null,
+            "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminum-Protective-Treatable-Rectangle-Crafting/dp/B0B8NLBZLZ/ref=sr_1_8?crid=17967GX975C9J&dib=eyJ2IjoiMSJ9.4Jlk7lPB5AWbAzxdNf-nUD8pzvduAsvEmzr3UIVcxFEPUP0I3dmvXAd4I6emzqru61HecOmIyqZDtBO235nVtHY72ny9csv9REoib0N0Zira_eCgJhs3YrdAOnZTxbiUykk1Af4rL3PzZAwcpUnwGHhr4n9cIndObWFBUibW810U73Ths_AoNJwL0X4rIOkqMK0V_4FDBtVkEHKkkN2RGdR-0uJbXMvZ1ev7EMXMmeyQD-oQxCymFDi3gXMA0mtUg-CiquOu9iW4_wkknIHlNT2IMqstG7HMwVejCmer2yo.G7RWYp_a9c82X0KixpSd47qXEg5lBuRHDuWr-y2KpLQ&dib_tag=se&keywords=aluminium+sheet&qid=1716944301&sprefix=aluminium+sheet%2Caps%2C78&sr=8-9 (via Amazon)",
+            "created_at": "2025-06-09T21:29:01.303917+00:00"
+          }
+        }
+      }
+    },
+    {
+      "success": true,
+      "url": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+      "supplierIndex": 2,
+      "data": {
+        "url": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+        "name": "ZIQI 3 Pack 6061 T6 Aluminium Metal Sheet 12 x 12 x 116 Inch Thickness Flat Plain Plate Panel Aluminium Metal Sheets Plate  Amazon.ca Industrial amp Scientific",
+        "description": "ZIQI 3 Pack 6061 T6 Aluminium Metal Sheet 12 x 12 x 116 Inch Thickness Flat Plain Plate Panel Aluminium Metal Sheets Plate  Amazon.ca Industrial amp Scientific",
+        "price": 47.41,
+        "currency": "USD",
+        "specifications": {},
+        "images": [],
+        "brand": "Brand: Venanoci",
+        "model": null,
+        "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+        "availability": "Available",
+        "category": null,
+        "dimensions": {
+          "length": 12,
+          "width": 12,
+          "height": 0.0625,
+          "unit": "in"
+        },
+        "material_type": "s",
+        "extracted_at": "2025-06-09T21:29:07.537Z",
+        "suggested_type": "material",
+        "confidence": 95,
+        "classification_reasons": [
+          "User specified as material",
+          "Material keyword: \"sheet\" (high confidence)",
+          "Material keyword: \"plate\" (high confidence)",
+          "Has dimensional specifications (material indicator)",
+          "URL contains \"sheets\" (material indicator)"
+        ]
+      },
+      "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+      "materialIsNew": false,
+      "supplierRelationship": {
+        "id": 50,
+        "isNew": true,
+        "data": {
+          "id": 50,
+          "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "supplier_id": 12,
+          "link": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+          "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+          "price_per_unit": 47.41,
+          "min_order_quantity": 1,
+          "lead_time_days": null,
+          "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18 (via Amazon)",
+          "created_at": "2025-06-09T21:29:08.975536+00:00"
+        }
+      },
+      "priceHistory": {
+        "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+      },
+      "insertResult": {
+        "success": true,
+        "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+        "tableName": "materials",
+        "supplierData": {
+          "data": {
+            "id": 50,
+            "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "supplier_id": 12,
+            "link": "https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18",
+            "sku": "IRcpJ0BVBSQUFSg9BSQFKC4hFykmQFURBSQUFSg9BSQFLy4hFyknQBEFJBQVKD0FJAUtLiEXKSRNBSQZuRUoPwUkFSg8BSQxJRQVKD0FJAUrFyQVKD8FJBUoPAUk",
+            "price_per_unit": 47.41,
+            "min_order_quantity": 1,
+            "lead_time_days": null,
+            "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/Aluminium-Metal-Sheet-Thickness-Sheets/dp/B09ZNS571Y/ref=sr_1_18?crid=1N171X9L0W921&dib=eyJ2IjoiMSJ9.6hVw1pMtHhwLlexHBKqr69aT3NJc5ooWm71Sax2y9mxPklEhqWAWuYEthco9RdZCX4VOxNvte7tydOZBCvk-TOe4FlzXxadF5t2w6-Pc56XNdt5ixbJwSF0EsOZPl96I06CECrNdMJe088G8J4LTO0ZWZVqDTHgernRoT8JQUNXnFL2XNpltuQC3LrKjRUwuFEUqhf1O52oSjuIK4EUi9ib3wN-zVzMz9O0DoNNdkOWsAfRfZzWCccsfah8-_ud5tYCrPMUxVeoNDAlUl9sn0FUGRpyaAEGsJNbFh6goj7w.cpJ1Dw8fvS_42Rmag6CiMxS-iCzB1kWG5FvnGYp_ryM&dib_tag=se&keywords=aluminium+sheet+t6&qid=1716944356&sprefix=aluminium+sheet+t6%2Caps%2C65&sr=8-18 (via Amazon)",
+            "created_at": "2025-06-09T21:29:08.975536+00:00"
+          }
+        }
+      }
+    },
+    {
+      "success": true,
+      "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+      "supplierIndex": 3,
+      "data": {
+        "url": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+        "name": "SALUINOKI Aluminum Sheet Metal Plate 14 in 6061 T651 12x8 in Anodized Aluminum Panel 2Pcs  Amazon.ca Industrial amp Scientific",
+        "description": "SALUINOKI Aluminum Sheet Metal Plate 14 in 6061 T651 12x8 in Anodized Aluminum Panel 2Pcs  Amazon.ca Industrial amp Scientific",
+        "price": 56.22,
+        "currency": "USD",
+        "specifications": {},
+        "images": [],
+        "brand": "Brand: SALUINOKI",
+        "model": null,
+        "sku": "nits",
+        "availability": "Available",
+        "category": null,
+        "dimensions": {
+          "length": 12,
+          "width": 8,
+          "unit": "in"
+        },
+        "material_type": "s",
+        "extracted_at": "2025-06-09T21:29:16.029Z",
+        "suggested_type": "material",
+        "confidence": 95,
+        "classification_reasons": [
+          "User specified as material",
+          "Material keyword: \"sheet\" (high confidence)",
+          "Material keyword: \"plate\" (high confidence)",
+          "Has dimensional specifications (material indicator)"
+        ]
+      },
+      "materialId": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+      "materialIsNew": false,
+      "supplierRelationship": {
+        "id": 51,
+        "isNew": true,
+        "data": {
+          "id": 51,
+          "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+          "supplier_id": 13,
+          "link": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+          "sku": "nits",
+          "price_per_unit": 56.22,
+          "min_order_quantity": 1,
+          "lead_time_days": null,
+          "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1 (via Amazon)",
+          "created_at": "2025-06-09T21:29:17.337945+00:00"
+        }
+      },
+      "priceHistory": {
+        "error": "null value in column \"material_id\" of relation \"material_price_history\" violates not-null constraint"
+      },
+      "insertResult": {
+        "success": true,
+        "message": "Successfully linked to material cf504feb-86a2-4e93-9c09-c049f90c2806",
+        "tableName": "materials",
+        "supplierData": {
+          "data": {
+            "id": 51,
+            "material_id": "cf504feb-86a2-4e93-9c09-c049f90c2806",
+            "supplier_id": 13,
+            "link": "https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1",
+            "sku": "nits",
+            "price_per_unit": 56.22,
+            "min_order_quantity": 1,
+            "lead_time_days": null,
+            "notes": "Auto-created from product extractor. Original URL: https://www.amazon.ca/dp/B0CHJ8DRFJ/ref=twister_B0CP3BH4X7?_encoding=UTF8&th=1 (via Amazon)",
+            "created_at": "2025-06-09T21:29:17.337945+00:00"
+          }
+        }
+      }
+    }
+  ]
+}
